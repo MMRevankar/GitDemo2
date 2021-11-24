@@ -11,6 +11,12 @@ public class Arrays {
 			 System.out.println(l);
 			 System.out.println(m);
 			 System.out.println(o);
+			 
+			 
+			 System.out.println(d);
+			 System.out.println(f);
+			 System.out.println(g);
+			 System.out.println(i);
 		}
 
 	}
