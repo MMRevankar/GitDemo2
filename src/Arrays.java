@@ -8,6 +8,9 @@ public class Arrays {
 		for(int k : a)
 		{
 			 System.out.println(k);
+			 System.out.println(l);
+			 System.out.println(m);
+			 System.out.println(o);
 		}
 
 	}
